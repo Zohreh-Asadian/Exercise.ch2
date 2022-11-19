@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "r/w+kHSGrfb+19MhRvFZQrhC29W82JX7pATMT5HChLoCVXfRJceYFSiOv5hDx2wlYBYKCV9nSrAeKMZedV2jCw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ARTA\\source\\repos\\Exercise2.4\\Exercise2.4\\Exercise2.4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ARTA\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

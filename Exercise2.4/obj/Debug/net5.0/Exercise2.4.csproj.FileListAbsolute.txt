@@ -1,0 +1,15 @@
+C:\Users\ARTA\source\repos\Exercise2.4\Exercise2.4\bin\Debug\net5.0\Exercise2.4.exe
+C:\Users\ARTA\source\repos\Exercise2.4\Exercise2.4\bin\Debug\net5.0\Exercise2.4.deps.json
+C:\Users\ARTA\source\repos\Exercise2.4\Exercise2.4\bin\Debug\net5.0\Exercise2.4.runtimeconfig.json
+C:\Users\ARTA\source\repos\Exercise2.4\Exercise2.4\bin\Debug\net5.0\Exercise2.4.runtimeconfig.dev.json
+C:\Users\ARTA\source\repos\Exercise2.4\Exercise2.4\bin\Debug\net5.0\Exercise2.4.dll
+C:\Users\ARTA\source\repos\Exercise2.4\Exercise2.4\bin\Debug\net5.0\ref\Exercise2.4.dll
+C:\Users\ARTA\source\repos\Exercise2.4\Exercise2.4\bin\Debug\net5.0\Exercise2.4.pdb
+C:\Users\ARTA\source\repos\Exercise2.4\Exercise2.4\obj\Debug\net5.0\Exercise2.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ARTA\source\repos\Exercise2.4\Exercise2.4\obj\Debug\net5.0\Exercise2.4.AssemblyInfoInputs.cache
+C:\Users\ARTA\source\repos\Exercise2.4\Exercise2.4\obj\Debug\net5.0\Exercise2.4.AssemblyInfo.cs
+C:\Users\ARTA\source\repos\Exercise2.4\Exercise2.4\obj\Debug\net5.0\Exercise2.4.csproj.CoreCompileInputs.cache
+C:\Users\ARTA\source\repos\Exercise2.4\Exercise2.4\obj\Debug\net5.0\Exercise2.4.dll
+C:\Users\ARTA\source\repos\Exercise2.4\Exercise2.4\obj\Debug\net5.0\ref\Exercise2.4.dll
+C:\Users\ARTA\source\repos\Exercise2.4\Exercise2.4\obj\Debug\net5.0\Exercise2.4.pdb
+C:\Users\ARTA\source\repos\Exercise2.4\Exercise2.4\obj\Debug\net5.0\Exercise2.4.genruntimeconfig.cache
